@@ -34,7 +34,7 @@ class TokenMain extends Contract {
   static schemas = {
     name: {
       type: String,
-      default: 'VERIFICATION EDUCATION ACHIEVEMENT'
+      default: 'MANAGE STUDENT'
     },
     accounts: [
       {
